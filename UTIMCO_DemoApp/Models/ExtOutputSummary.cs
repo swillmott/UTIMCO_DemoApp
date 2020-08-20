@@ -13,5 +13,11 @@ namespace UTIMCO_DemoApp
             string output = string.Join("\r\n", IdSumList); 
             return output;
         }
+
+        public override string ToString()
+        {
+            return IdSumList.ToString();
+
+        }
     }
 }

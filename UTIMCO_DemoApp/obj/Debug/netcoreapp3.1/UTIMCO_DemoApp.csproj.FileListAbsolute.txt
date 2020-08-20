@@ -26,3 +26,4 @@ C:\git\UTIMCO_DemoApp\UTIMCO_DemoApp\obj\Debug\netcoreapp3.1\UTIMCO_DemoApp.cspr
 C:\git\UTIMCO_DemoApp\UTIMCO_DemoApp\obj\Debug\netcoreapp3.1\UTIMCO_DemoApp.dll
 C:\git\UTIMCO_DemoApp\UTIMCO_DemoApp\obj\Debug\netcoreapp3.1\UTIMCO_DemoApp.pdb
 C:\git\UTIMCO_DemoApp\UTIMCO_DemoApp\obj\Debug\netcoreapp3.1\UTIMCO_DemoApp.genruntimeconfig.cache
+C:\git\UTIMCO_DemoApp\UTIMCO_DemoApp\obj\Debug\netcoreapp3.1\UTIMCO_DemoApp.csprojAssemblyReference.cache

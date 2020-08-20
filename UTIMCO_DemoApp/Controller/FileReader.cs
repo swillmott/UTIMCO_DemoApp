@@ -4,10 +4,10 @@ using System.Text;
 
 namespace UTIMCO_DemoApp
 {
-    public class FileReaderController
+    public class FileReader
     {
         string filepath;
-        public FileReaderController(string[] args)
+        public FileReader(string[] args)
         {
             if (args.Length == 0)
             {
