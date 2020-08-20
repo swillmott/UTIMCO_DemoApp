@@ -15,4 +15,4 @@ Simple App for UTIMCO to read a json file and output a summary
 - Security checking that the user has permissions to access the file
 - Checking that the filepath is valid, and better error messaging around that
 - Checking that the filepath isn't null or empty
-- Unit tests for the Controller
+- Unit tests for the Controller, need to move the Console to its own Class to be able to mock inputs for unit tests
