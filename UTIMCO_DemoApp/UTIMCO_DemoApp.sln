@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UTIMCO_DemoApp", "UTIMCO_DemoApp.csproj", "{75A5F19A-C22F-490A-AD53-371E522967BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UTIMCO_DemoApp.Tests", "..\UTIMCO_DemoApp.Tests\UTIMCO_DemoApp.Tests.csproj", "{E1293D85-7003-4AAF-A1BA-BC4CF5B35078}"
+	ProjectSection(ProjectDependencies) = postProject
+		{75A5F19A-C22F-490A-AD53-371E522967BD} = {75A5F19A-C22F-490A-AD53-371E522967BD}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A5F19A-C22F-490A-AD53-371E522967BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A5F19A-C22F-490A-AD53-371E522967BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A5F19A-C22F-490A-AD53-371E522967BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A5F19A-C22F-490A-AD53-371E522967BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1293D85-7003-4AAF-A1BA-BC4CF5B35078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1293D85-7003-4AAF-A1BA-BC4CF5B35078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1293D85-7003-4AAF-A1BA-BC4CF5B35078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1293D85-7003-4AAF-A1BA-BC4CF5B35078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DD1711D-D86D-4424-9CD1-0EE6AB3EC5EF}
+	EndGlobalSection
+EndGlobal

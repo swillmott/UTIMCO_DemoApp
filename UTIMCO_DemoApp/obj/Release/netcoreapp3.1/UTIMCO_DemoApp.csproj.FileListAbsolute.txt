@@ -1,0 +1,15 @@
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\bin\Release\netcoreapp3.1\UTIMCO_DemoApp.exe
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\bin\Release\netcoreapp3.1\UTIMCO_DemoApp.deps.json
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\bin\Release\netcoreapp3.1\UTIMCO_DemoApp.runtimeconfig.json
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\bin\Release\netcoreapp3.1\UTIMCO_DemoApp.runtimeconfig.dev.json
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\bin\Release\netcoreapp3.1\UTIMCO_DemoApp.dll
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\bin\Release\netcoreapp3.1\UTIMCO_DemoApp.pdb
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\obj\Release\netcoreapp3.1\UTIMCO_DemoApp.csprojAssemblyReference.cache
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\obj\Release\netcoreapp3.1\UTIMCO_DemoApp.AssemblyInfoInputs.cache
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\obj\Release\netcoreapp3.1\UTIMCO_DemoApp.AssemblyInfo.cs
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\obj\Release\netcoreapp3.1\UTIMCO_DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\obj\Release\netcoreapp3.1\UTIMCO_DemoApp.csproj.CopyComplete
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\obj\Release\netcoreapp3.1\UTIMCO_DemoApp.dll
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\obj\Release\netcoreapp3.1\UTIMCO_DemoApp.pdb
+C:\Users\Stephanie\source\repos\UTIMCO_DemoApp\obj\Release\netcoreapp3.1\UTIMCO_DemoApp.genruntimeconfig.cache

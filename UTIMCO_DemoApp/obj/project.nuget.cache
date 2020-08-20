@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wzJKzEhDUmGbo55phWn5HV0V0veqKNSp3pGsAzQtKJldBnpwQuohoAcL1z3z8bRXhu9r2FYNiA6ALsfh20l4Vg==",
+  "success": true,
+  "projectFilePath": "C:\\git\\UTIMCO_DemoApp\\UTIMCO_DemoApp\\UTIMCO_DemoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephanie\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
