@@ -1,12 +1,12 @@
 # UTIMCO_DemoApp
 Simple App for UTIMCO to read a json file and output a summary
 
-#Use
+# Use
 1. Download  the .exe from \UTIMCO_DemoApp\bin\Release\netcoreapp3.1\UTIMCO_DemoApp.exe
 2. Run it using the command line
 3. Either supply a filepath as the first argument, or the program will prompt the user to enter a filepath. Filepaths can be relative or absolute.
 
-#Assumptions:
+# Assumptions:
 - User has access to file
 - File has a .json extension
 
